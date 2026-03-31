@@ -1,0 +1,12 @@
+{
+  "name": "feature-workflow",
+  "description": "Phased feature development workflow: brainstorm, plan, execute, review, document, and ship with stacked PRs",
+  "plugins": [
+    {
+      "name": "feature-workflow",
+      "description": "Phased feature development workflow: brainstorm, plan, execute, review, document, and ship with stacked PRs",
+      "version": "1.0.0",
+      "source": "./"
+    }
+  ]
+}
